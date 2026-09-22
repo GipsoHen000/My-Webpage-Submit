@@ -1,0 +1,85 @@
+p, h1, h2, h3, h4, h5, h6{
+  width: fit-content;
+  height:fit-content;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+  margin:15px 5px
+}
+ #title{
+  width: 50%;
+  margin: 10px auto 15px auto;
+  font-size: 400%;
+  text-align: center;
+}
+img{
+  margin: 5px 10px;
+}
+
+
+#hi{
+  float:right;
+}
+.note{
+  padding:0.5%;
+  width:fit-content;
+  background-color:rgb(252, 227, 158);
+  position:absolute;
+  left:25%;
+  right:25%;
+  margin: 
+}
+.note p{
+  text-align:center;
+  font-size:15px;
+}
+
+
+.navigation{
+  width:50%;
+  height: fit-content;
+  position: absolute;
+  bottom:25px;
+  left:25%;
+  right:25%;
+  background-color: hsl(260, 32%, 75%);
+}
+.navigation h3{
+  width:100%;
+  left:25%;
+  right:25%;
+  text-align:center;
+  font-size: 25px;
+}
+.navigation a{
+  width:fit-content;
+  color: hsl(244, 88%, 60%)
+}
+.navigation a:hover{
+  color:blue;
+  background-color:hsla(266, 96%, 55%, 0.25);
+}
+
+
+
+
+
+
+
+
+
+
+.delta-text html{
+    background-color:black
+}
+.delta-text p, .delta-text h1, .delta-text h2, .delta-text h3, 
+.delta-text h4, .delta-text h5, .delta-text h6{
+  width:fit-content;
+  height:fit-content;
+  background-image: url('./deltarune-prophecy-animated-1789563019341 (1).gif');
+  background-position:center;
+  background-repeat:repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}

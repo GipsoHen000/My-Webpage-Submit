@@ -1,0 +1,16 @@
+You must create a webpage with 3 additional, inter-connected pages that 
+work cohesively as a website.
+
+
+This is your Home page - you need to have navigational tools and information on how to get to the other pages and descriptions of what each page is for.
+
+This page must be your favorite place you have ever traveled to.
+
+This page must be for your favorite movie or tv series.
+
+This page must be for your favorite sport, hobby, or activity
+
+
+To earn full points, your pages should be in a singular theme, 
+with plenty of css modifiers that show your css skills and abilities. 
+Each page will be 10 points each, with creativity being another 10.
