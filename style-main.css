@@ -1,0 +1,63 @@
+p, h1, h2, h3, h4, h5, h6{
+  width: fit-content;
+  height:fit-content;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+  margin:15px 5px
+}
+
+
+
+ #title{
+  width: 50%;
+  margin: 10px auto 15px auto;
+  font-size: 400%;
+  text-align: center;
+}
+img{
+  margin: 5px 10px;
+}
+
+.note{
+  padding:0.5%;
+  width:fit-content;
+  height:fit-content;
+  background-color:rgb(252, 227, 158);
+  left:25%;
+  right:25%;
+}
+.note p{
+  text-align:center;
+  font-size:15px;
+}
+
+html{
+  background-color:hsl(287, 28%, 70%);
+}
+
+.navigation{
+  width:50%;
+  height: fit-content;
+  margin-top:35px;
+  margin-bottom:5px;
+  margin-left:25%;
+  margin-right:25%;
+  background-color: hsl(242, 87%, 85%);
+  padding:1px;
+}
+.navigation h3{
+  width:100%;
+  left:25%;
+  right:25%;
+  text-align:center;
+  font-size: 25px;
+}
+.navigation a{
+  width:fit-content;
+  color: hsl(244, 88%, 60%)
+}
+.navigation a:hover{
+  color:blue;
+  background-color:hsla(266, 96%, 55%, 0.25);
+}

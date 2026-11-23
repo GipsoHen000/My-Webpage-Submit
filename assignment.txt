@@ -1,16 +1,16 @@
-Create a basic web page about you.
-It must contain...
+You must create a webpage with 3 additional, inter-connected pages that 
+work cohesively as a website.
 
-1. History section - where did you grow up, when you were born, etc.
 
-2. Hobbies section - what do you like to do in your free time? 
-(must be in a table, 3 columns minimum, 5 rows minimum: number, name of hobbie, and description)
+This is your Home page - you need to have navigational tools and information on how to get to the other pages and descriptions of what each page is for.
 
-3. Your favorite movies & music sections - What is your favorite movie & music? (must be an ordered list)
-A picture of you and of something related to your hobbies or favorites section.
+This page must be your favorite place you have ever traveled to.
 
-4. 5 links to your favorite Youtube Videos - think music, movie trailers, etc.
+This page must be for your favorite movie or tv series.
 
-Each section is worth 10 points and must be easy to read (headings, descriptions, text styling, etc)
+This page must be for your favorite sport, hobby, or activity
 
- ctrl+s is save
+
+To earn full points, your pages should be in a singular theme, 
+with plenty of css modifiers that show your css skills and abilities. 
+Each page will be 10 points each, with creativity being another 10.

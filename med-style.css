@@ -1,0 +1,40 @@
+p{
+  margin:30px 5px;
+  text-align:left;
+}
+
+div.delta-text{
+    background-color:rgba(0, 0, 0, 0.9);
+    width:75%;
+}
+.delta-text p, .delta-text h1, .delta-text h2, .delta-text h3, 
+.delta-text h4, .delta-text h5, .delta-text h6{
+  height:fit-content;
+  width:fit-content;
+  background-image: url('./deltarune-prophecy-animated-1789563019341 (1).gif');
+  background-position:center;
+  background-repeat:repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+div.minecraft-text{
+  background-image: url('./dirt minecraft.png');
+  background-repeat:repeat;
+  width:75%;
+  color:rgb(65, 248, 89);
+}
+
+div.shows{
+  width:fit-content;
+  padding:5px;
+  padding-right:10px;
+  background-color:rgb(252, 227, 158);
+}
+
+
+#mega{
+  width:450px;
+  height:700px;
+}
